@@ -1,3 +1,10 @@
+/*
+ * BPF TEST 1
+ * THIS PROGRAM TESTS THE BPF VIRTUAL DEVICE
+ *
+ * BASED ON BASTIAN RIECK POST (https://bastian.rieck.me/blog/posts/2009/bpf/) 
+ */
+
 #include <stdlib.h>
 #include <sys/time.h>
 #include <sys/ioctl.h>
